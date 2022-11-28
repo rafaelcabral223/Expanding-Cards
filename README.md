@@ -10,7 +10,3 @@ Cards que se expandem ao serem clicados.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://user-images.githubusercontent.com/72042885/204361333-04c0f181-e2cc-406d-a048-738ac8b1946d.JPG#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
