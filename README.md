@@ -9,3 +9,5 @@
 | :rocket: URL         | https://expandingcardssite.netlify.app
 
 This website has 5 cards and when the user clicks on one of them it expands.
+
+![2023-01-22-11-51-56](https://user-images.githubusercontent.com/72042885/213922415-faecdd6f-3349-457b-9ee8-2461d76a28c9.gif)
